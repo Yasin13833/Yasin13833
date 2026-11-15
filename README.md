@@ -45,3 +45,14 @@ I'm a React Developer passionate about building modern, responsive, and user-fri
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
+
+
+
+---
+
+### 🚀 Currently Working On
+
+- Building modern web applications with React.js
+- Improving my Front-End development skills
+- Working on real-world projects and exploring new technologies
+
