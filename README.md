@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Yasin
 
-<!--
-**Yasin13833/Yasin13833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### React Developer
 
-Here are some ideas to get you started:
+I'm a React Developer passionate about building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Focused on Front-End Development
+- ⚛️ Working with React.js
+- 🌱 Always learning and improving my skills
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Core Technologies**
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js)
+
+**Frameworks & Libraries**
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass)
+
+**Tools**
+
+![My Skills](https://skillicons.dev/icons?i=git,github,vite,npm,vscode)
