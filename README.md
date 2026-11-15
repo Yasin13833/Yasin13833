@@ -41,13 +41,6 @@ I'm a React Developer passionate about building modern, responsive, and user-fri
   <a href="https://github.com/Yasin13833">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
-
-
-<p align="left">
-  <a href="https://github.com/Yasin13833">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
   <a href="https://t.me/@Yasinygbo">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
