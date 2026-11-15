@@ -52,7 +52,7 @@ I'm a React Developer passionate about building modern, responsive, and user-fri
 
 ### 🚀 Currently Working On
 
-- Building modern web applications with React.js
+- Building modern website with React.js
 - Improving my Front-End development skills
 - Working on real-world projects and exploring new technologies
 
